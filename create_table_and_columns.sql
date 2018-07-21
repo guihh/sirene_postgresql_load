@@ -84,7 +84,7 @@ CREATE TABLE public.sirene
     "DEFEN" character(4),
     "CATEGORIE" character(5),
     "DCREN" date,
-    "AMINTREN" character(),
+    "AMINTREN" character(6),
     "MONOACT" character(1),
     "MODEN" character(1),
     "PRODEN" character(1),

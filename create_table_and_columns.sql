@@ -1,6 +1,6 @@
 CREATE TABLE public.sirene
 (
-    "SIREN" character(9),
+    "SIREN" integer,
     "NIC" character(5),
     "L1_NORMALISEE" character(38),
     "L2_NORMALISEE" character(38),
